@@ -1,6 +1,6 @@
 <!--
-  GitHub Profile README for Hanifa Alvi (@Hanifaalvi).
-  This file and the assets/ folder go in the PUBLIC repository called Hanifaalvi.
+  GitHub Profile README for Hanifa Alvi (@hanifaalvii).
+  This file and the assets/ folder go in the PUBLIC repository called hanifaalvii.
   The banner and second illustration were made specifically for this profile.
   NOTE: Project descriptions are learning plans/in-progress work, not professional experience.
   IMPORTANT: Upload BOTH this README.md AND assets/hanifa-banner.png and assets/study-quote.png
@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hanifaalvi2677377/"><img src="https://img.shields.io/badge/LinkedIn-Hanifa%20Alvi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Hanifa Alvi on LinkedIn" /></a>
-  <a href="https://github.com/Hanifaalvi"><img src="https://img.shields.io/badge/GitHub-Hanifaalvi-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Visit Hanifa on GitHub" /></a>
+  <a href="https://github.com/hanifaalvii"><img src="https://img.shields.io/badge/GitHub-hanifaalvii-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Visit Hanifa on GitHub" /></a>
 </p>
 
 <p align="center">
@@ -121,7 +121,7 @@ I enjoy learning by experimenting. Here's what I'm currently working toward; I'l
 > As I publish each project, I'll add its source code, screenshots, instructions and what I learned.
 
 <!-- Once a project exists, change its title into a link, for example:
-[🍉 Fruit Slice Game](https://github.com/Hanifaalvi/REAL_REPOSITORY_NAME)
+[🍉 Fruit Slice Game](https://github.com/hanifaalvii/REAL_REPOSITORY_NAME)
 Do not mark a project as complete until it's actually complete. -->
 
 ---
@@ -142,8 +142,8 @@ Do not mark a project as complete until it's actually complete. -->
 ## 📊 Growing on GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hanifaalvi&show_icons=true&theme=transparent&hide_border=true&title_color=B65C99&icon_color=A78BFA&text_color=8B6D83" alt="Hanifa's public GitHub activity stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hanifaalvi&layout=compact&theme=transparent&hide_border=true&title_color=B65C99&text_color=8B6D83" alt="Languages in Hanifa's public GitHub repositories" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hanifaalvii&show_icons=true&theme=transparent&hide_border=true&title_color=B65C99&icon_color=A78BFA&text_color=8B6D83" alt="Hanifa's public GitHub activity stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanifaalvii&layout=compact&theme=transparent&hide_border=true&title_color=B65C99&text_color=8B6D83" alt="Languages in Hanifa's public GitHub repositories" />
 </p>
 
 <sub>These charts use public repository activity, so they will evolve as I publish code. The charts rely on an external service and might occasionally be unavailable.</sub>
@@ -155,7 +155,7 @@ Do not mark a project as complete until it's actually complete. -->
 I'm here to learn, explore new ideas, share beginner projects, and meet people who enjoy building things with technology.
 
 <p align="center">
-  <a href="https://github.com/Hanifaalvi"><img src="https://img.shields.io/badge/GitHub-Hanifaalvi-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Hanifa's GitHub profile" /></a>
+  <a href="https://github.com/hanifaalvii"><img src="https://img.shields.io/badge/GitHub-hanifaalvii-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Hanifa's GitHub profile" /></a>
   <a href="https://www.linkedin.com/in/hanifaalvi2677377/"><img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Hanifa on LinkedIn" /></a>
 </p>
 
