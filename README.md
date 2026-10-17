@@ -3,14 +3,21 @@
   This file and the assets/ folder go in the PUBLIC repository called Hanifaalvi.
   The banner and second illustration were made specifically for this profile.
   NOTE: Project descriptions are learning plans/in-progress work, not professional experience.
+  IMPORTANT: Upload BOTH this README.md AND assets/hanifa-banner.png and assets/study-quote.png
+  to the same repository. README.md by itself cannot display the original artwork.
 -->
 
 <p align="center">
-  <img src="assets/hanifa-banner.png" width="100%" alt="Pastel banner for Hanifa Alvi, a computer science student, with an illustrated young woman coding on a laptop" />
+  <img src="assets/hanifa-banner.png" width="100%" alt="Hanifa Alvi — Computer Science Student; illustrated woman coding at a laptop in a rose and lavender study room" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&duration=3000&pause=950&color=B565A7&center=true&vCenter=true&width=850&height=55&lines=Computer%20Science%20Student;Learning%20Python%2C%20SQL%20and%20JavaScript;Building%20browser%20games%20and%20web%20apps;Exploring%20software%20and%20data%20engineering;One%20project%20at%20a%20time" alt="Animated introduction describing Hanifa's learning journey" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hanifaalvi2677377/"><img src="https://img.shields.io/badge/LinkedIn-Hanifa%20Alvi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Hanifa Alvi on LinkedIn" /></a>
+  <a href="https://github.com/Hanifaalvi"><img src="https://img.shields.io/badge/GitHub-Hanifaalvi-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Visit Hanifa on GitHub" /></a>
 </p>
 
 <p align="center">
@@ -43,17 +50,53 @@ I'm especially curious about **software development, web applications, interacti
 
 ## 🧰 My learning toolbox
 
-**Languages & web basics I'm learning**
+Here are the languages and tools I'm **learning and practicing with**. The names are written below the icons so it's easy to recognize each one.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql&perline=8" alt="Python, JavaScript, HTML, CSS, and MySQL learning icons" />
-</p>
+### 💻 Programming languages & web basics
 
-**Tools I'm practicing with**
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python logo" /><br />
+      <b>Python</b><br /><sub>Programming</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript logo" /><br />
+      <b>JavaScript</b><br /><sub>Web & games</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML logo" /><br />
+      <b>HTML</b><br /><sub>Page structure</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS logo" /><br />
+      <b>CSS</b><br /><sub>Page styling</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge" width="77" alt="SQL badge" /><br />
+      <b>SQL</b><br /><sub>Working with data</sub>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github&perline=8" alt="Visual Studio Code, Git and GitHub icons" />
-</p>
+### 🛠️ Developer tools
+
+<table>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="Visual Studio Code logo" /><br />
+      <b>Visual Studio Code</b><br /><sub>Code editor</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git logo" /><br />
+      <b>Git</b><br /><sub>Version control</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub logo" /><br />
+      <b>GitHub</b><br /><sub>Code portfolio</sub>
+    </td>
+  </tr>
+</table>
 
 <p>
   <img src="https://img.shields.io/badge/SQL-Learning-7C3AED?style=flat-square" alt="Learning SQL" />
@@ -61,7 +104,7 @@ I'm especially curious about **software development, web applications, interacti
   <img src="https://img.shields.io/badge/Web%20Development-Exploring-A855F7?style=flat-square" alt="Exploring web development" />
 </p>
 
-<sub>These are technologies I'm <b>learning or exploring</b>, not claims of professional-level expertise.</sub>
+<sub>I'm building my foundation step by step; this is my learning list, not a claim of professional expertise.</sub>
 
 ---
 
@@ -114,7 +157,7 @@ I'm here to learn, explore new ideas, share beginner projects, and meet people w
 
 <p align="center">
   <a href="https://github.com/Hanifaalvi"><img src="https://img.shields.io/badge/GitHub-Hanifaalvi-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Hanifa's GitHub profile" /></a>
-  <img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-C88DA7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile coming soon" />
+  <a href="https://www.linkedin.com/in/hanifaalvi2677377/"><img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Hanifa on LinkedIn" /></a>
 </p>
 
 <p align="center">
