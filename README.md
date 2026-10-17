@@ -23,7 +23,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Science-Student-B65C99?style=for-the-badge" alt="Computer Science Student" />
   <img src="https://img.shields.io/badge/Focus-Learn%20%26%20Build-A78BFA?style=for-the-badge" alt="Learning and Building" />
-  <img src="https://komarev.com/ghpvc/?username=Hanifaalvi&label=Profile%20views&color=E58EB6&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
